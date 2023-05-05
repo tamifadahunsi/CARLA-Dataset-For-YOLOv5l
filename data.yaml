@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['vehicle', 'pedestrian', 'traffic light', 'motorcyclist', 'speed limit', 'stop sign', 'cyclist', 'road sign']
